@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+This is the repository associated with my MSc studies at the <b>University of Essex</b>
+
+- 🔭 attending "Launching into Computer Science August 2021"
+- 🌱 playing a bit with Python
+- ⚡ getting new ideas from the most recent advancements in Computer Science
+- 📫 Send me a message if you want to get in touch
+
 <!--
 **ros101/ros101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
