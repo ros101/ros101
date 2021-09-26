@@ -7,6 +7,8 @@ This is the repository associated with my MSc studies at the <b>University of Es
 - ⚡ getting new ideas from the most recent advancements in Computer Science
 - 📫 Send me a message if you want to get in touch
 
+you can also check <a href="https://github.com/alros">my other profile</a>
+
 <!--
 **ros101/ros101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
