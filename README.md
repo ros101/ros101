@@ -2,7 +2,7 @@
 
 This is the repository associated with my MSc studies at the <b>University of Essex</b>
 
-- 🔭 attending "Launching into Computer Science August 2021"
+- 🔭 attending "Object-oriented Information Systems November 2021"
 - 🌱 playing a bit with Python
 - ⚡ getting new ideas from the most recent advancements in Computer Science
 - 📫 Send me a message if you want to get in touch
